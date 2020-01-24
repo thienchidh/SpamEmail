@@ -34,8 +34,10 @@ examples send email:
 
 # using this tool
 1. create APP_PASSWORD
-2. using gmail to pass field "username", APP_PASSWORD to pass field password file input/Accounts.json
-3. write your subject email to file input/subject.txt
-4. write your content email to file input/content.txt
-5. write (many) dest email to file input/destEmails.txt
-6. run file run.sh/run.bat
+2. using gmail to pass field "username", APP_PASSWORD to pass field password
+3. write your subject email to file subject.txt
+4. write your content email to file content.txt
+5. write (many) dest email to file destEmails.txt
+6. rename file SpamEmail.any -> SpamEmail.jar
+7. run file run.bat/run.sh
+
