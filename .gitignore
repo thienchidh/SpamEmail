@@ -1,0 +1,6 @@
+/target/
+SpamEmail.iml
+.project
+.classpath
+/out
+.settings
